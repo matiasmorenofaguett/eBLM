@@ -52,6 +52,6 @@ The above result is interpreted as the value of the BLM that induces a solution 
 [4]: https://marxansolutions.org/wp-content/uploads/2021/02/Marxan-User-Manual_2021.pdf
 
 - Cohon, J. L., Church, R. L., and Sheer, D. P., (1979). Generating multiobjective trade-offs: An algorithm for bicriterion problems. *Water Resour. Res.*, 15( 5), 1001– 1010.
-- Fischer, D.T., Church, R.L, (2005). The SITES reserve selection system: A critical review. *Environ Model Assess* 10, 215–228.
+- Fischer, D.T., Church, R.L., (2005). The SITES reserve selection system: A critical review. *Environ Model Assess* 10, 215–228.
 - Ardron, J.A., Possingham, H.P., and Klein, C.J., (2010). Marxan Good Practices Handbook, Version 2. *Pacific Marine Analysis and Research Association*, Victoria, BC, Canada. 165 pages. www.pacmara.org. 
 - Serra, N., Kockel, A., Game, E. T., Grantham H., Possingham H.P., & McGowan, J., (2020). Marxan User Manual: For Marxan version 2.43 and above. *The Nature Conservancy* (TNC), Arlington, Virginia, United States and *Pacific Marine Analysis and Research Association* (PacMARA), Victoria, British Columbia, Canada.
