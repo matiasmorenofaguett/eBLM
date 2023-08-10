@@ -1,6 +1,6 @@
 # eBLM: Equilibrium Boundary Length Modifier <img src='Figures/eBLM_icon.png' align='left' width='4%'/>
 
-**This research has been financed by the National Research and Development Agency (ANID), Chile, through doctoral scholarship No. 72220359 of the Chilean Scholarship program, as well as FONDECYT research grant No. 1220830, “*Enhanced MIP Tools for Conservation Planning: Models and Algorithms for Complex Spatio-Temporal Conservation Problems*”. In addition, to acknowledge support of the European Union’s H2020 research and innovation program through funding from the Marie Skodowska-Curie Research and Innovation Staff Exchange (RISE) grant agreement No. 101007950, “*Decision Support for the Supply of Ecosystem Services under Global Change*” (DecisionES).**
+**M. Moreno-Faguett was supported by the National Research and Development Agency (ANID), Chile, through the chilean scolarship No. 72220359 and through the FONDECYT research grant No. 1220830, and by the EU’s research and innovation programme H2020 through the Marie Sklodowska-Curie RISE grant No. 101007950, DecisionES.**
 
 ## Overview
 
