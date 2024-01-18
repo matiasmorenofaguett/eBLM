@@ -1,6 +1,6 @@
 # eBLM: Equilibrium Boundary Length Modifier <img src='Figures/eBLM_icon.png' align='left' width='4%'/>
 
-**M. Moreno-Faguett was supported by the National Research and Development Agency (ANID), Chile, through the Chilean scholarship No. 72220359 and through the FONDECYT research grant No. 1220830, and by the EU’s research and innovation program H2020 through the Marie Sklodowska-Curie RISE grant No. 101007950, DecisionES.**
+**M. Moreno-Faguett was supported by the National Research and Development Agency (ANID), Chile, through the scholarship No. 72220359 and through the FONDECYT research grant No. 1220830, and by the EU’s research and innovation program H2020 through the Marie Sklodowska-Curie RISE grant No. 101007950, DecisionES.**
 
 ## Overview
 
