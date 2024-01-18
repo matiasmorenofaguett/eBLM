@@ -1,6 +1,6 @@
 # eBLM: Equilibrium Boundary Length Modifier <img src='Figures/eBLM_icon.png' align='left' width='4%'/>
 
-**M. Moreno-Faguett was supported by the National Research and Development Agency (ANID), Chile, through the chilean scolarship No. 72220359 and through the FONDECYT research grant No. 1220830, and by the EU’s research and innovation programme H2020 through the Marie Sklodowska-Curie RISE grant No. 101007950, DecisionES.**
+**M. Moreno-Faguett was supported by the National Research and Development Agency (ANID), Chile, through the Chilean scholarship No. 72220359 and through the FONDECYT research grant No. 1220830, and by the EU’s research and innovation program H2020 through the Marie Sklodowska-Curie RISE grant No. 101007950, DecisionES.**
 
 ## Overview
 
@@ -55,7 +55,7 @@ The above result is interpreted as the value of the BLM that induces a solution 
 [3]: https://marxansolutions.org/wp-content/uploads/2020/04/Marxan-Good-Practices-Handbook-v2-2013.pdf
 [4]: https://marxansolutions.org/wp-content/uploads/2021/02/Marxan-User-Manual_2021.pdf
 
-- Cohon, J. L., Church, R. L., and Sheer, D. P., (1979). Generating multiobjective trade-offs: An algorithm for bicriterion problems. *Water Resour Res*, 15( 5), 1001– 1010.
-- Fischer, D.T., Church, R.L., (2005). The SITES reserve selection system: A critical review. *Environ Model Assess* 10, 215–228.
-- Ardron, J.A., Possingham, H.P., and Klein, C.J., (2010). Marxan Good Practices Handbook, Version 2. *Pacific Marine Analysis and Research Association*, Victoria, BC, Canada. 165 pages. www.pacmara.org. 
-- Serra, N., Kockel, A., Game, E. T., Grantham H., Possingham H.P., & McGowan, J., (2020). Marxan User Manual: For Marxan version 2.43 and above. *The Nature Conservancy* (TNC), Arlington, Virginia, United States and *Pacific Marine Analysis and Research Association* (PacMARA), Victoria, British Columbia, Canada.
+- Cohon, J. L., Church, R. L., & Sheer, D. P. (1979). Generating multiobjective trade‐offs: An algorithm for bicriterion problems. *Water Resources Research*, 15(5), 1001-1010.
+- Fischer, D. T., & Church, R. L. (2005). The SITES reserve selection system: a critical review. *Environmental Modeling & Assessment*, 10, 215-228.
+- Ardron, J. A., Possingham, H. P., & Klein, C. J. (2008). Marxan good practices handbook. *Pacific Marine Analysis and Research Association, Vancouver*, 149.
+- Serra-Sogas, N., Kockel, A., Game, E. T., Possingham, H., & McGowan, J. (2020). Marxan User Manual: For Marxan version 2.43 and above. The Nature Conservancy (TNC), Arlington, Virginia, United States and Pacific Marine Analysis and Research Association (PacMARA), Victoria. *British Columbia, Canada*.
